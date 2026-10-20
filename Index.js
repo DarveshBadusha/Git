@@ -1,2 +1,2 @@
 console.log("Wellcome to Git Course");
-console.log("This change on Bug branch");
+console.log("This change on Bug branch pass to main");
